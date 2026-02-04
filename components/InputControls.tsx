@@ -394,7 +394,7 @@ export default function InputControls({ params, onParamsChange }: InputControlsP
           label="Starting Stockpile"
           value={`${(params.startingStockpile / 1_000_000).toFixed(0)}M`}
           min={0}
-          max={2000000000}
+          max={10000000000}
           step={10000000}
           rawValue={params.startingStockpile}
           onChange={(v) => updateParam('startingStockpile', v)}
