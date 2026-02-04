@@ -48,8 +48,8 @@ export function runSimulation(params: SimulationParams): SimulationResults {
   let peakDailyShortfall = 0;
   let minProtectionRate = 100;
 
-  // Run simulation for 365 days
-  for (let day = 0; day <= 365; day++) {
+  // Run simulation for 730 days (2 years)
+  for (let day = 0; day <= 730; day++) {
     // Calculate daily supply with linear ramp-up to peak capacity
     let dailySupply: number;
     if (day < daysToPeakCapacity) {
