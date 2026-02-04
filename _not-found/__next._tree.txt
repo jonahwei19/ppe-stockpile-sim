@@ -1,0 +1,2 @@
+:HL["/ppe-stockpile-sim/_next/static/chunks/2afe380c6cc14d30.css","style"]
+0:{"buildId":"Bhj4WgotBhWXxgj9Jhymz","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
